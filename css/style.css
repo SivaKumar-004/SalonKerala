@@ -8575,18 +8575,18 @@ html.rd-navbar-fixed-linked .page {
 
 .slider-scale-effect .swiper-slide.slide-bg-1:before {
 	/* background: url(https://drive.google.com/thumbnail?id=1_SmBf0tgnszIafF19UngVBAoLLQU3Xke); */
-	background: url(../images_3/1920_3.jpg);
+	background: url(../images_3/white\ background.jpeg);
 
 	background-size: cover;
 }
 
 .slider-scale-effect .swiper-slide.slide-bg-2:before {
-	background: url(../images/slide-2-bg.jpg);
+	background: url(../images_3/white\ background.jpeg);
 	background-size: cover;
 }
 
 .slider-scale-effect .swiper-slide.slide-bg-3:before {
-	background: url(../images_3/1920_3bg.jpg);
+	background: url(../images_3/white\ background.jpeg);
 	background-size: cover;
 }
 
